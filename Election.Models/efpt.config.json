@@ -1,0 +1,62 @@
+﻿{
+   "ContextClassName": "ElectiondbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "Election.Models",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Admin]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[District]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ElectionInfo]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ElectionResult]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ElectionVote]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Person]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PersonElection]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Position]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PositionVote]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[sysdiagrams]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

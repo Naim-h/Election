@@ -1,0 +1,9 @@
+E:\Project\Naim\Romani\Election\Election.Models\bin\Debug\netstandard2.0\Election.Models.deps.json
+E:\Project\Naim\Romani\Election\Election.Models\bin\Debug\netstandard2.0\Election.Models.dll
+E:\Project\Naim\Romani\Election\Election.Models\bin\Debug\netstandard2.0\Election.Models.pdb
+E:\Project\Naim\Romani\Election\Election.Models\obj\Debug\netstandard2.0\Election.Models.csproj.CoreCompileInputs.cache
+E:\Project\Naim\Romani\Election\Election.Models\obj\Debug\netstandard2.0\Election.Models.AssemblyInfoInputs.cache
+E:\Project\Naim\Romani\Election\Election.Models\obj\Debug\netstandard2.0\Election.Models.AssemblyInfo.cs
+E:\Project\Naim\Romani\Election\Election.Models\obj\Debug\netstandard2.0\Election.Models.dll
+E:\Project\Naim\Romani\Election\Election.Models\obj\Debug\netstandard2.0\Election.Models.pdb
+E:\Project\Naim\Romani\Election\Election.Models\obj\Debug\netstandard2.0\Election.Models.csprojAssemblyReference.cache
